@@ -1,2 +1,16 @@
-# hello-world
-My test repository on github..
+HelloScala
+==========
+
+Hello World Spring Boot Scala Web App
+
+
+How to run
+==========
+
+```sh
+gradle build
+gradle bootRun
+```
+
+
+
